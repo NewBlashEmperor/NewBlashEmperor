@@ -1,7 +1,9 @@
-## Hi there 👋
+<h3 align="center"> Hi there, I'm Absinthe 👋</h3>
 
-<!--
-**NewBlashEmperor/NewBlashEmperor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skill Set:
 
-![visitors](https://visitor-badge.gitch.me/badge?page_id=NewBlashEmperor.NewBlashEmperor)
+  These are some of the major technologies that I use or have worked on in the past:
 
+  **Programming Languages**
+
+  <img title="Python" alt="Python" width="40px" scr="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"/>
